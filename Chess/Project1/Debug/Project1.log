@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+C:\Users\adars\OneDrive\Desktop\Projects\Chess\Project1\main.cpp(24,37): warning C4805: '==': unsafe mix of type 'bool' and type 'int' in operation
+C:\Users\adars\OneDrive\Desktop\Projects\Chess\Project1\main.cpp(468,107): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\adars\OneDrive\Desktop\Projects\Chess\Project1\main.cpp(468,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\adars\OneDrive\Desktop\Projects\Chess\Project1\main.cpp(279): warning C4715: 'movementIsPossible': not all control paths return a value
+  Project1.vcxproj -> C:\Users\adars\OneDrive\Desktop\Projects\Chess\Debug\Chess.exe
